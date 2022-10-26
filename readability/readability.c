@@ -57,10 +57,7 @@ else if (grade >= 16)
     printf("\nGrade 16+");
 }
 
-else 
-{
-    printf("\nBefore Grade 1"); 
-}
+
 
     
 }
